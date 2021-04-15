@@ -2,12 +2,12 @@
 layout: cv
 title: Dr. Dave Young CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# David Young
+Scientific Programmer, Astro-Physicist, Mathematician.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="d.r.young@qub.ac.uk">d.r.young@qub.ac.uk</a>
+| <a href="http://www.astronotes.co.uk">astronotes.co.uk</a>
 </div>
 
 
